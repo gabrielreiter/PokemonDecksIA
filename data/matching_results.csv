@@ -1,0 +1,276 @@
+ID,Deck Text,Matched Deck_predicted,Matched Deck_true
+1,Charmander Charmeleon Charizard ex Pidgey Pidgey Pidgeot ex Duskull Dusclops Dusknoir Radiant Charizard Rotom V Lumineon V Fezandipiti ex Cleffa,Pidgeot Control,Charizard ex
+1,Charmander Charmeleon Charizard ex Pidgey Pidgey Pidgeot ex Duskull Dusclops Dusknoir Radiant Charizard Rotom V Lumineon V Fezandipiti ex Cleffa,Pidgeot Control,Charizard ex
+2,Gimmighoul Gholdengo ex Origin Forme Palkia V Origin Forme Palkia VSTAR Radiant Greninja Fezandipiti ex Iron Bundle Manaphy,Palkia VSTAR,Gholdengo ex
+2,Gimmighoul Gholdengo ex Origin Forme Palkia V Origin Forme Palkia VSTAR Radiant Greninja Fezandipiti ex Iron Bundle Manaphy,Palkia VSTAR,Gholdengo ex
+3,Gimmighoul Gholdengo ex Togepi Togekiss Radiant Greninja Manaphy Iron Bundle Fezandipiti ex,Gholdengo ex,Sem Rótulo Verdadeiro
+4,Dreepy Drakloak Dragapult ex Duskull Duskull Dusclops Dusknoir Rotom V Radiant Alakazam Fezandipiti ex Lumineon V,Dragapult ex,Sem Rótulo Verdadeiro
+5,Ralts Kirlia Gardevoir ex Munkidori Drifloon Scream Tail Flutter Mane Klefki Radiant Greninja Manaphy,Gardevoir ex,Sem Rótulo Verdadeiro
+6,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Radiant Charizard Cleffa Dragapult ex Alolan Exeggutor ex Giratina VSTAR Hisuian Goodra VSTAR Kyurem Squawkabilly ex Mew ex Fezandipiti ex,Regidrago VSTAR,Sem Rótulo Verdadeiro
+7,Klawf Brute Bonnet Terapagos ex Latias ex Radiant Hisuian Sneasler Lumineon V Fezandipiti ex Oranguru V Iron Bundle Bloodmoon Ursaluna ex Pecharunt ex Squawkabilly ex,Klawf Unhinged Scissors,Klawf Unhinged Scissors
+7,Klawf Brute Bonnet Terapagos ex Latias ex Radiant Hisuian Sneasler Lumineon V Fezandipiti ex Oranguru V Iron Bundle Bloodmoon Ursaluna ex Pecharunt ex Squawkabilly ex,Klawf Unhinged Scissors,Klawf Unhinged Scissors
+8,Charmander Charmeleon Charizard ex Duskull Dusclops Dusknoir Pidgey Pidgeot ex Rotom V Lumineon V Fezandipiti ex Cleffa Radiant Charizard,Charizard ex,Sem Rótulo Verdadeiro
+9,Roaring Moon ex Roaring Moon Koraidon Fezandipiti ex Pecharunt ex Iron Bundle Radiant Greninja Lumineon V Squawkabilly ex Latias ex,Roaring Moon ex,Roaring Moon ex
+9,Roaring Moon ex Roaring Moon Koraidon Fezandipiti ex Pecharunt ex Iron Bundle Radiant Greninja Lumineon V Squawkabilly ex Latias ex,Roaring Moon ex,Roaring Moon ex
+10,Charmander Charmeleon Charizard ex Duskull Dusclops Dusknoir Pidgey Pidgeot ex Rotom V Lumineon V Fezandipiti ex Cleffa Radiant Charizard,Charizard ex,Sem Rótulo Verdadeiro
+11,Miraidon ex Iron Hands ex Raikou V Raichu V Magnemite Magneton Pikachu ex Latias ex Mew ex Fezandipiti ex Squawkabilly ex Lumineon V Iron Bundle,Miraidon ex,Miraidon ex
+11,Miraidon ex Iron Hands ex Raikou V Raichu V Magnemite Magneton Pikachu ex Latias ex Mew ex Fezandipiti ex Squawkabilly ex Lumineon V Iron Bundle,Miraidon ex,Miraidon ex
+12,Miraidon ex Iron Hands ex Raikou V Raichu V Magnemite Magneton Pikachu ex Rotom V Bloodmoon Ursaluna ex Latias ex Mew ex Fezandipiti ex Squawkabilly ex Lumineon V Radiant Greninja Iron Bundle,Miraidon ex,Miraidon ex
+12,Miraidon ex Iron Hands ex Raikou V Raichu V Magnemite Magneton Pikachu ex Rotom V Bloodmoon Ursaluna ex Latias ex Mew ex Fezandipiti ex Squawkabilly ex Lumineon V Radiant Greninja Iron Bundle,Miraidon ex,Miraidon ex
+13,Gimmighoul Gholdengo ex Togepi Togekiss Fezandipiti ex Radiant Greninja Manaphy Iron Bundle,Gholdengo ex,Gholdengo ex
+13,Gimmighoul Gholdengo ex Togepi Togekiss Fezandipiti ex Radiant Greninja Manaphy Iron Bundle,Gholdengo ex,Gholdengo ex
+14,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Hisuian Goodra VSTAR Alolan Exeggutor ex Kyurem Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+14,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Hisuian Goodra VSTAR Alolan Exeggutor ex Kyurem Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+15,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Hoothoot Noctowl Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+15,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Hoothoot Noctowl Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+16,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Hisuian Goodra VSTAR Alolan Exeggutor ex Kyurem Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+16,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Hisuian Goodra VSTAR Alolan Exeggutor ex Kyurem Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+17,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard Hawlucha,Regidrago VSTAR,Sem Rótulo Verdadeiro
+18,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Hisuian Goodra VSTAR Alolan Exeggutor ex Kyurem Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+18,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Hisuian Goodra VSTAR Alolan Exeggutor ex Kyurem Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+19,Charmander Charmeleon Charizard ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Radiant Charizard Cleffa Lumineon V Rotom V Fezandipiti ex,Pidgeot Control,Charizard ex
+19,Charmander Charmeleon Charizard ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Radiant Charizard Cleffa Lumineon V Rotom V Fezandipiti ex,Pidgeot Control,Charizard ex
+20,Roaring Moon Flutter Mane Great Tusk Pecharunt ex Fezandipiti ex Brute Bonnet Radiant Greninja Iron Bundle Roaring Moon ex,Roaring Moon ex,Roaring Moon ex
+20,Roaring Moon Flutter Mane Great Tusk Pecharunt ex Fezandipiti ex Brute Bonnet Radiant Greninja Iron Bundle Roaring Moon ex,Roaring Moon ex,Roaring Moon ex
+21,Charmander Charmeleon Charizard ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Lumineon V Rotom V Fezandipiti ex Radiant Charizard,Charizard ex,Sem Rótulo Verdadeiro
+22,Hoothoot Noctowl Terapagos ex Pidgey Pidgeot ex Duskull Dusknoir Fan Rotom Bouffalant Regidrago V Regidrago VSTAR Fezandipiti ex Bloodmoon Ursaluna ex,Regidrago VSTAR,Sem Rótulo Verdadeiro
+23,Frigibax Frigibax Baxcalibur Bidoof Bibarel Chien-Pao ex Origin Forme Palkia V Origin Forme Palkia VSTAR Iron Hands ex Lumineon V Radiant Greninja,Chien-Pao Baxcalibur,Chien-Pao Baxcalibur
+23,Frigibax Frigibax Baxcalibur Bidoof Bibarel Chien-Pao ex Origin Forme Palkia V Origin Forme Palkia VSTAR Iron Hands ex Lumineon V Radiant Greninja,Chien-Pao Baxcalibur,Chien-Pao Baxcalibur
+24,Roaring Moon ex Squawkabilly ex Koraidon Roaring Moon Fezandipiti ex Radiant Greninja Pecharunt ex Latias ex,Roaring Moon ex,Sem Rótulo Verdadeiro
+25,Pidgey Pidgeot ex Rotom V Snorlax Cornerstone Mask Ogerpon ex Mimikyu Chi-Yu ex Luxray V,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+26,Lugia V Lugia VSTAR Archeops Minccino Cinccino Lumineon V Bloodmoon Ursaluna ex Wyrdeer V Iron Hands ex Fezandipiti ex Squawkabilly ex Flutter Mane,Lugia Archeops,Sem Rótulo Verdadeiro
+27,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Hoothoot Noctowl Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+27,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Hoothoot Noctowl Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+28,Ralts Ralts Kirlia Gardevoir ex Drifloon Scream Tail Munkidori Klefki Spiritomb Fezandipiti ex Radiant Greninja Manaphy,Gardevoir ex,Sem Rótulo Verdadeiro
+29,Gimmighoul Gholdengo ex Origin Forme Palkia V Origin Forme Palkia VSTAR Lumineon V Radiant Greninja Manaphy Fezandipiti ex,Palkia VSTAR,Sem Rótulo Verdadeiro
+30,Roaring Moon Koraidon Flutter Mane Great Tusk Walking Wake Radiant Greninja,Roaring Moon ex,Ancient Box
+30,Roaring Moon Koraidon Flutter Mane Great Tusk Walking Wake Radiant Greninja,Roaring Moon ex,Ancient Box
+31,Raging Bolt ex Teal Mask Ogerpon ex Squawkabilly ex Fezandipiti ex Radiant Greninja Slither Wing,Raging Bolt ex,Raging Bolt ex
+31,Raging Bolt ex Teal Mask Ogerpon ex Squawkabilly ex Fezandipiti ex Radiant Greninja Slither Wing,Raging Bolt ex,Raging Bolt ex
+32,Raging Bolt ex Teal Mask Ogerpon ex Radiant Greninja Fezandipiti ex Squawkabilly ex,Raging Bolt ex,Raging Bolt ex
+32,Raging Bolt ex Teal Mask Ogerpon ex Radiant Greninja Fezandipiti ex Squawkabilly ex,Raging Bolt ex,Raging Bolt ex
+33,Charmander Charmeleon Charizard ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Radiant Charizard Rotom V Lumineon V Fezandipiti ex,Pidgeot Control,Sem Rótulo Verdadeiro
+34,Lugia V Lugia VSTAR Archeops Minccino Cinccino Lumineon V Wellspring Mask Ogerpon ex Bloodmoon Ursaluna ex Squawkabilly ex Fezandipiti ex Klefki,Cornerstone Ogerpon ex,Lugia Archeops
+34,Lugia V Lugia VSTAR Archeops Minccino Cinccino Lumineon V Wellspring Mask Ogerpon ex Bloodmoon Ursaluna ex Squawkabilly ex Fezandipiti ex Klefki,Cornerstone Ogerpon ex,Lugia Archeops
+35,Roaring Moon Koraidon Flutter Mane Walking Wake Radiant Greninja,Roaring Moon ex,Ancient Box
+35,Roaring Moon Koraidon Flutter Mane Walking Wake Radiant Greninja,Roaring Moon ex,Ancient Box
+36,Charmander Charmeleon Charizard ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Radiant Charizard Rotom V Lumineon V Fezandipiti ex,Pidgeot Control,Sem Rótulo Verdadeiro
+37,Ralts Kirlia Gardevoir ex Drifloon Scream Tail Munkidori Klefki Mimikyu Radiant Greninja Fezandipiti ex,Gardevoir ex,Sem Rótulo Verdadeiro
+38,Terapagos ex Hoothoot Noctowl Pidgey Pidgeot ex Duskull Dusknoir Fan Rotom Bouffalant Bloodmoon Ursaluna ex Fezandipiti ex,Terapagos ex,Sem Rótulo Verdadeiro
+39,Duskull Dusclops Dusknoir Origin Forme Palkia V Origin Forme Palkia VSTAR Froakie Greninja ex Radiant Greninja Bloodmoon Ursaluna ex Squawkabilly ex Mew ex Fezandipiti ex,Palkia VSTAR,Sem Rótulo Verdadeiro
+40,Raging Bolt ex Teal Mask Ogerpon ex Squawkabilly ex Fezandipiti ex Radiant Greninja Slither Wing Iron Bundle,Raging Bolt ex,Sem Rótulo Verdadeiro
+41,Teal Mask Ogerpon ex Regidrago V Regidrago VSTAR Dragapult ex Giratina VSTAR Mew ex Kyurem Hisuian Goodra VSTAR Cleffa Squawkabilly ex Haxorus,Regidrago VSTAR,Sem Rótulo Verdadeiro
+42,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Hoothoot Noctowl Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+42,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Hoothoot Noctowl Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+43,Gimmighoul Gholdengo ex Origin Forme Palkia V Origin Forme Palkia VSTAR Radiant Greninja Fezandipiti ex Spiritomb,Palkia VSTAR,Sem Rótulo Verdadeiro
+44,Teal Mask Ogerpon ex Regidrago V Regidrago VSTAR Dragapult ex Giratina VSTAR Mew ex Kyurem Hisuian Goodra VSTAR Cleffa Squawkabilly ex Haxorus,Regidrago VSTAR,Sem Rótulo Verdadeiro
+45,Charmander Charmeleon Charizard ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Radiant Charizard Lumineon V Rotom V Fezandipiti ex,Pidgeot Control,Sem Rótulo Verdadeiro
+46,Ralts Kirlia Gardevoir ex Drifloon Scream Tail Munkidori Klefki Radiant Greninja Fezandipiti ex Spiritomb,Gardevoir ex,Sem Rótulo Verdadeiro
+47,Terapagos ex Hoothoot Noctowl Duskull Dusknoir Fan Rotom Pidgey Pidgeot ex Bloodmoon Ursaluna ex Fezandipiti ex Manaphy,Terapagos ex,Sem Rótulo Verdadeiro
+48,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Squawkabilly ex Mew ex Fezandipiti ex Cleffa Radiant Charizard,Regidrago VSTAR,Sem Rótulo Verdadeiro
+49,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Squawkabilly ex Mew ex Fezandipiti ex Cleffa Radiant Charizard,Regidrago VSTAR,Sem Rótulo Verdadeiro
+50,Hoothoot Hoothoot Noctowl Duskull Dusclops Dusknoir Charmander Charizard ex Fan Rotom Terapagos ex Pidgey Pidgeot ex Manaphy Radiant Charizard Fezandipiti ex,Charizard ex,Sem Rótulo Verdadeiro
+51,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+51,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+51,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+51,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+52,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Fezandipiti ex Mew ex Giratina VSTAR Kyurem Radiant Charizard Cleffa Squawkabilly ex Hisuian Goodra VSTAR,Regidrago VSTAR,Sem Rótulo Verdadeiro
+53,Roaring Moon ex Pecharunt ex Roaring Moon Fezandipiti ex Radiant Greninja Squawkabilly ex Iron Bundle,Roaring Moon ex,Sem Rótulo Verdadeiro
+54,Charmander Charmander Charmeleon Charizard ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Radiant Charizard Rotom V Lumineon V Fezandipiti ex Cleffa,Pidgeot Control,Sem Rótulo Verdadeiro
+55,Charmander Charmeleon Charizard ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Lumineon V Fezandipiti ex Cleffa Rotom V Radiant Charizard,Charizard ex,Sem Rótulo Verdadeiro
+56,Origin Forme Palkia V Origin Forme Palkia VSTAR Duskull Dusclops Dusknoir Froakie Greninja ex Radiant Greninja Bloodmoon Ursaluna ex Squawkabilly ex Fezandipiti ex Mew ex,Palkia VSTAR,Sem Rótulo Verdadeiro
+57,Hoothoot Noctowl Duskull Dusknoir Terapagos ex Fan Rotom Pidgey Pidgeot ex Bloodmoon Ursaluna ex Fezandipiti ex,Terapagos ex,Terapagos ex
+57,Hoothoot Noctowl Duskull Dusknoir Terapagos ex Fan Rotom Pidgey Pidgeot ex Bloodmoon Ursaluna ex Fezandipiti ex,Terapagos ex,Terapagos ex
+58,Comfey Sableye Cramorant Radiant Greninja Raikou V Iron Hands ex Bloodmoon Ursaluna ex Fezandipiti ex Manaphy Spiritomb,Roaring Moon ex,Sem Rótulo Verdadeiro
+59,Raging Bolt ex Teal Mask Ogerpon ex Fezandipiti ex Lumineon V Squawkabilly ex Slither Wing Radiant Greninja,Raging Bolt ex,Sem Rótulo Verdadeiro
+60,Miraidon ex Raikou V Iron Hands ex Zapdos Squawkabilly ex Bloodmoon Ursaluna ex Fezandipiti ex Mew ex Mewtwo ex Iron Bundle,Miraidon ex,Sem Rótulo Verdadeiro
+61,Snorlax Mimikyu Rotom V Regieleki Cornerstone Mask Ogerpon ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+62,Ralts Kirlia Gardevoir ex Drifloon Scream Tail Munkidori Klefki Spiritomb Radiant Greninja Fezandipiti ex,Gardevoir ex,Sem Rótulo Verdadeiro
+63,Duskull Dusclops Dusknoir Origin Forme Palkia V Origin Forme Palkia VSTAR Froakie Greninja ex Squawkabilly ex Radiant Greninja Mew ex Fezandipiti ex Bloodmoon Ursaluna ex,Palkia VSTAR,Sem Rótulo Verdadeiro
+64,Gouging Fire ex Delphox V Flutter Mane Mew ex Lumineon V Radiant Greninja Entei V Fezandipiti ex Munkidori Squawkabilly ex,Gouging Fire ex,Gouging Fire ex
+64,Gouging Fire ex Delphox V Flutter Mane Mew ex Lumineon V Radiant Greninja Entei V Fezandipiti ex Munkidori Squawkabilly ex,Gouging Fire ex,Gouging Fire ex
+65,Archeops Lugia V Lugia VSTAR Minccino Cinccino Lumineon V Wellspring Mask Ogerpon ex Raikou V Iron Hands ex Bloodmoon Ursaluna ex Squawkabilly ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+66,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Hisuian Goodra VSTAR Giratina VSTAR Kyurem Radiant Charizard Mew ex Squawkabilly ex Cleffa Fezandipiti ex,Regidrago VSTAR,Sem Rótulo Verdadeiro
+67,Archeops Lugia V Lugia VSTAR Minccino Minccino Cinccino Lumineon V Bloodmoon Ursaluna ex Iron Hands ex Wellspring Mask Ogerpon ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+68,Hoothoot Noctowl Terapagos ex Duskull Dusknoir Fan Rotom Bouffalant Pidgey Pidgeot ex Regidrago V Regidrago VSTAR Bloodmoon Ursaluna ex Fezandipiti ex,Regidrago VSTAR,Sem Rótulo Verdadeiro
+69,Lugia V Lugia VSTAR Archeops Minccino Minccino Cinccino Lumineon V Bloodmoon Ursaluna ex Iron Hands ex Wellspring Mask Ogerpon ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+70,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Squawkabilly ex Mew ex Fezandipiti ex Cleffa Radiant Charizard,Regidrago VSTAR,Sem Rótulo Verdadeiro
+71,Terapagos ex Hoothoot Noctowl Pidgey Pidgeot ex Duskull Duskull Dusknoir Fan Rotom Bouffalant Bloodmoon Ursaluna ex Fezandipiti ex,Terapagos ex,Terapagos ex
+71,Terapagos ex Hoothoot Noctowl Pidgey Pidgeot ex Duskull Duskull Dusknoir Fan Rotom Bouffalant Bloodmoon Ursaluna ex Fezandipiti ex,Terapagos ex,Terapagos ex
+72,Teal Mask Ogerpon ex Regidrago V Regidrago VSTAR Dragapult ex Giratina VSTAR Mew ex Kyurem Hisuian Goodra VSTAR Cleffa Squawkabilly ex Haxorus,Regidrago VSTAR,Sem Rótulo Verdadeiro
+73,Shuppet Banette ex Banette Ralts Ralts Kirlia Gardevoir ex Munkidori Mew ex Spiritomb Scream Tail,Gardevoir ex,Banette ex
+73,Shuppet Banette ex Banette Ralts Ralts Kirlia Gardevoir ex Munkidori Mew ex Spiritomb Scream Tail,Gardevoir ex,Banette ex
+74,Shuppet Banette ex Banette Ralts Kirlia Gardevoir ex Munkidori Mew ex Spiritomb Scream Tail,Gardevoir ex,Sem Rótulo Verdadeiro
+75,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+75,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+75,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+75,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+76,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+76,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+76,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+76,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+77,Snorlax Mimikyu Rotom V Cornerstone Mask Ogerpon ex Regieleki Pidgeot V,Cornerstone Ogerpon ex,Snorlax Stall PGO
+77,Snorlax Mimikyu Rotom V Cornerstone Mask Ogerpon ex Regieleki Pidgeot V,Cornerstone Ogerpon ex,Snorlax Stall PGO
+78,Ralts Kirlia Gardevoir ex Scream Tail Drifloon Radiant Greninja Munkidori Spiritomb Klefki Fezandipiti ex,Gardevoir ex,Gardevoir ex
+78,Ralts Kirlia Gardevoir ex Scream Tail Drifloon Radiant Greninja Munkidori Spiritomb Klefki Fezandipiti ex,Gardevoir ex,Gardevoir ex
+79,Comfey Cramorant Sableye Radiant Greninja Bloodmoon Ursaluna ex Iron Hands ex Iron Thorns ex,Iron Thorns ex,Lost Zone Box
+79,Comfey Cramorant Sableye Radiant Greninja Bloodmoon Ursaluna ex Iron Hands ex Iron Thorns ex,Iron Thorns ex,Lost Zone Box
+80,Hoothoot Hoothoot Noctowl Terapagos ex Duskull Dusclops Dusknoir Fan Rotom Pidgey Pidgeot ex Manaphy Fezandipiti ex Bloodmoon Ursaluna ex,Terapagos ex,Sem Rótulo Verdadeiro
+81,Hoothoot Noctowl Terapagos ex Origin Forme Palkia V Origin Forme Palkia VSTAR Fan Rotom Radiant Greninja Spiritomb Volbeat Illumise Fezandipiti ex,Terapagos ex,Sem Rótulo Verdadeiro
+82,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Hoothoot Noctowl Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+82,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Hoothoot Noctowl Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+83,Ralts Kirlia Gardevoir ex Munkidori Drifloon Scream Tail Flutter Mane Klefki Radiant Greninja Manaphy,Gardevoir ex,Sem Rótulo Verdadeiro
+84,Comfey Sableye Iron Hands ex Radiant Greninja Spiritomb Cramorant Bloodmoon Ursaluna ex Fezandipiti ex Manaphy,Roaring Moon ex,Sem Rótulo Verdadeiro
+85,Ralts Kirlia Gardevoir ex Fezandipiti ex Spiritomb Scream Tail Munkidori Klefki Drifloon Radiant Greninja,Gardevoir ex,Gardevoir ex
+85,Ralts Kirlia Gardevoir ex Fezandipiti ex Spiritomb Scream Tail Munkidori Klefki Drifloon Radiant Greninja,Gardevoir ex,Gardevoir ex
+86,Hoothoot Hoothoot Noctowl Terapagos ex Duskull Duskull Dusknoir Fan Rotom Bouffalant Pidgey Pidgeot ex Bloodmoon Ursaluna ex Fezandipiti ex,Terapagos ex,Sem Rótulo Verdadeiro
+87,Gimmighoul Gholdengo ex Spiritomb Origin Forme Palkia V Origin Forme Palkia VSTAR Radiant Greninja Fezandipiti ex,Palkia VSTAR,Sem Rótulo Verdadeiro
+88,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+88,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+88,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+88,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+89,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Squawkabilly ex Mew ex Fezandipiti ex Kyurem Radiant Charizard Hisuian Goodra VSTAR Cleffa,Regidrago VSTAR,Sem Rótulo Verdadeiro
+90,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Hoothoot Noctowl Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+90,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Hoothoot Noctowl Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+91,Raging Bolt ex Teal Mask Ogerpon ex Radiant Greninja Fezandipiti ex Squawkabilly ex,Raging Bolt ex,Raging Bolt ex
+91,Raging Bolt ex Teal Mask Ogerpon ex Radiant Greninja Fezandipiti ex Squawkabilly ex,Raging Bolt ex,Raging Bolt ex
+92,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+92,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+92,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+92,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+93,Raging Bolt ex Teal Mask Ogerpon ex Radiant Greninja Fezandipiti ex Squawkabilly ex Slither Wing,Raging Bolt ex,Sem Rótulo Verdadeiro
+94,Archeops Lugia V Lugia VSTAR Minccino Minccino Cinccino Lumineon V Fezandipiti ex Bloodmoon Ursaluna ex Klefki Iron Hands ex Wyrdeer V,Arceus VSTAR,Sem Rótulo Verdadeiro
+95,Charmander Charmeleon Charizard ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Lumineon V Fezandipiti ex Manaphy Rotom V Radiant Charizard,Charizard ex,Sem Rótulo Verdadeiro
+96,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Hoothoot Noctowl Dragapult ex Giratina VSTAR Squawkabilly ex Fezandipiti ex Kyurem Cleffa Radiant Charizard Haxorus Hawlucha,Regidrago VSTAR,Sem Rótulo Verdadeiro
+97,Archeops Lugia V Lugia VSTAR Minccino Cinccino Lumineon V Bloodmoon Ursaluna ex Klefki Wyrdeer V Wellspring Mask Ogerpon ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+98,Hoothoot Noctowl Origin Forme Palkia V Origin Forme Palkia VSTAR Terapagos ex Fan Rotom Ditto Wellspring Mask Ogerpon ex Bloodmoon Ursaluna ex Fezandipiti ex Radiant Greninja,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+99,Gimmighoul Gholdengo ex Dunsparce Dudunsparce Fan Rotom Radiant Greninja Fezandipiti ex,Gholdengo ex,Sem Rótulo Verdadeiro
+100,Okidogi Radiant Charizard Munkidori Cleffa Fezandipiti ex Bloodmoon Ursaluna ex Cornerstone Mask Ogerpon ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+101,Charmander Charmeleon Charizard ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Radiant Charizard Fezandipiti ex Lumineon V Rotom V,Pidgeot Control,Sem Rótulo Verdadeiro
+102,Lugia V Lugia VSTAR Archeops Minccino Cinccino Lumineon V Bloodmoon Ursaluna ex Wyrdeer V Iron Hands ex Wellspring Mask Ogerpon ex,Cornerstone Ogerpon ex,Lugia Archeops
+102,Lugia V Lugia VSTAR Archeops Minccino Cinccino Lumineon V Bloodmoon Ursaluna ex Wyrdeer V Iron Hands ex Wellspring Mask Ogerpon ex,Cornerstone Ogerpon ex,Lugia Archeops
+103,Duskull Dusclops Dusknoir Origin Forme Palkia V Origin Forme Palkia VSTAR Froakie Greninja ex Radiant Greninja Bloodmoon Ursaluna ex Squawkabilly ex Fezandipiti ex Mew ex,Palkia VSTAR,Sem Rótulo Verdadeiro
+104,Raging Bolt ex Teal Mask Ogerpon ex Squawkabilly ex Fezandipiti ex Radiant Greninja Iron Bundle Slither Wing,Raging Bolt ex,Sem Rótulo Verdadeiro
+105,Duskull Duskull Dusclops Dusknoir Origin Forme Palkia V Origin Forme Palkia VSTAR Froakie Greninja ex Radiant Greninja Bloodmoon Ursaluna ex Squawkabilly ex Fezandipiti ex Mew ex,Palkia VSTAR,Sem Rótulo Verdadeiro
+106,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Hisuian Goodra VSTAR Kyurem Squawkabilly ex Mew ex Fezandipiti ex Iron Leaves ex Radiant Charizard Hawlucha,Regidrago VSTAR,Sem Rótulo Verdadeiro
+107,Gimmighoul Gholdengo ex Bidoof Bibarel Origin Forme Palkia V Origin Forme Palkia VSTAR Radiant Greninja Fezandipiti ex,Palkia VSTAR,Sem Rótulo Verdadeiro
+108,Dreepy Drakloak Dragapult ex Pidgey Pidgey Pidgeot ex Lumineon V Rotom V Fezandipiti ex Cleffa Radiant Alakazam Hawlucha Manaphy,Dragapult ex,Dragapult ex
+108,Dreepy Drakloak Dragapult ex Pidgey Pidgey Pidgeot ex Lumineon V Rotom V Fezandipiti ex Cleffa Radiant Alakazam Hawlucha Manaphy,Dragapult ex,Dragapult ex
+109,Terapagos ex Hoothoot Noctowl Duskull Dusknoir Fan Rotom Pidgey Pidgeot ex Bloodmoon Ursaluna ex Fezandipiti ex,Terapagos ex,Sem Rótulo Verdadeiro
+110,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+110,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+110,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+110,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+111,Comfey Sableye Cramorant Radiant Greninja Bloodmoon Ursaluna ex Iron Hands ex Raikou V Spiritomb Manaphy,Roaring Moon ex,Lost Zone Box
+111,Comfey Sableye Cramorant Radiant Greninja Bloodmoon Ursaluna ex Iron Hands ex Raikou V Spiritomb Manaphy,Roaring Moon ex,Lost Zone Box
+112,Dreepy Drakloak Dragapult ex Pidgey Pidgeot ex Rotom V Fezandipiti ex Radiant Alakazam Hawlucha,Dragapult ex,Dragapult ex
+112,Dreepy Drakloak Dragapult ex Pidgey Pidgeot ex Rotom V Fezandipiti ex Radiant Alakazam Hawlucha,Dragapult ex,Dragapult ex
+113,Snorlax Mimikyu Rotom V Cornerstone Mask Ogerpon ex Diancie,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+114,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Squawkabilly ex Mew ex Fezandipiti ex Cleffa Radiant Charizard,Regidrago VSTAR,Sem Rótulo Verdadeiro
+115,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Hoothoot Noctowl Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+115,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Hoothoot Noctowl Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+116,Archeops Lugia V Lugia VSTAR Minccino Cinccino Lumineon V Iron Hands ex Bloodmoon Ursaluna ex,Arceus VSTAR,Sem Rótulo Verdadeiro
+117,Archeops Lugia V Lugia VSTAR Lumineon V Minccino Cinccino Wyrdeer V Iron Hands ex Wellspring Mask Ogerpon ex Bloodmoon Ursaluna ex Iron Bundle Squawkabilly ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+118,Raging Bolt ex Teal Mask Ogerpon ex Radiant Greninja Fezandipiti ex Squawkabilly ex,Raging Bolt ex,Raging Bolt ex
+118,Raging Bolt ex Teal Mask Ogerpon ex Radiant Greninja Fezandipiti ex Squawkabilly ex,Raging Bolt ex,Raging Bolt ex
+119,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Hoothoot Noctowl Giratina VSTAR Kyurem Squawkabilly ex Mew ex Fezandipiti ex Cleffa Radiant Charizard,Regidrago VSTAR,Sem Rótulo Verdadeiro
+120,Lugia V Lugia VSTAR Archeops Lumineon V Minccino Cinccino Iron Hands ex Bloodmoon Ursaluna ex Wyrdeer V Wellspring Mask Ogerpon ex Squawkabilly ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+121,Snorlax Mimikyu Cornerstone Mask Ogerpon ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+122,Origin Forme Palkia V Origin Forme Palkia VSTAR Duskull Dusclops Dusknoir Froakie Greninja ex Radiant Greninja Bloodmoon Ursaluna ex Squawkabilly ex Fezandipiti ex Mew ex,Palkia VSTAR,Sem Rótulo Verdadeiro
+123,Gouging Fire ex Entei V Delphox V Moltres Squawkabilly ex Fezandipiti ex Mew ex Lumineon V Radiant Greninja Munkidori Flutter Mane,Gouging Fire ex,Sem Rótulo Verdadeiro
+124,Teal Mask Ogerpon ex Regidrago V Regidrago VSTAR Dragapult ex Cleffa Haxorus Giratina VSTAR Mew ex Hisuian Goodra VSTAR Kyurem Squawkabilly ex,Regidrago VSTAR,Sem Rótulo Verdadeiro
+125,Lugia V Lugia VSTAR Archeops Lumineon V Minccino Cinccino Squawkabilly ex Bloodmoon Ursaluna ex Iron Hands ex Raikou V Wyrdeer V Great Tusk ex Klefki,Lugia Archeops,Sem Rótulo Verdadeiro
+126,Raging Bolt ex Teal Mask Ogerpon ex Squawkabilly ex Fezandipiti ex Lumineon V Radiant Greninja Iron Bundle Slither Wing,Raging Bolt ex,Sem Rótulo Verdadeiro
+127,Comfey Sableye Cramorant Radiant Greninja Bloodmoon Ursaluna ex Iron Hands ex Spiritomb,Roaring Moon ex,Sem Rótulo Verdadeiro
+128,Duskull Dusclops Dusknoir Origin Forme Palkia V Origin Forme Palkia VSTAR Froakie Greninja ex Radiant Greninja Bloodmoon Ursaluna ex Squawkabilly ex Fezandipiti ex Mew ex Rotom V,Palkia VSTAR,Sem Rótulo Verdadeiro
+129,Charmander Charmeleon Charizard ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Radiant Charizard Rotom V Lumineon V Fezandipiti ex Cleffa,Pidgeot Control,Sem Rótulo Verdadeiro
+130,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard Hoothoot Noctowl,Regidrago VSTAR,Sem Rótulo Verdadeiro
+131,Archeops Lugia V Lugia VSTAR Minccino Cinccino Lumineon V Squawkabilly ex Wyrdeer V Iron Hands ex Bloodmoon Ursaluna ex,Arceus VSTAR,Sem Rótulo Verdadeiro
+132,Terapagos ex Hoothoot Noctowl Duskull Dusknoir Fan Rotom Pidgey Pidgeot ex Bloodmoon Ursaluna ex Fezandipiti ex Manaphy,Terapagos ex,Sem Rótulo Verdadeiro
+133,Lugia V Lugia VSTAR Archeops Lumineon V Minccino Cinccino Bloodmoon Ursaluna ex Wyrdeer V Iron Hands ex Raikou V Wellspring Mask Ogerpon ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+134,Duskull Dusclops Dusknoir Origin Forme Palkia V Origin Forme Palkia VSTAR Froakie Greninja ex Radiant Greninja Mew ex Bloodmoon Ursaluna ex Fezandipiti ex Squawkabilly ex,Palkia VSTAR,Sem Rótulo Verdadeiro
+135,Raging Bolt ex Teal Mask Ogerpon ex Radiant Greninja Fezandipiti ex Squawkabilly ex,Raging Bolt ex,Raging Bolt ex
+135,Raging Bolt ex Teal Mask Ogerpon ex Radiant Greninja Fezandipiti ex Squawkabilly ex,Raging Bolt ex,Raging Bolt ex
+136,Archeops Lugia V Lugia VSTAR Minccino Cinccino Lumineon V Squawkabilly ex Wyrdeer V Iron Hands ex Bloodmoon Ursaluna ex,Arceus VSTAR,Sem Rótulo Verdadeiro
+137,Snorlax Mimikyu Rotom V Cornerstone Mask Ogerpon ex Pidgeot V Regieleki,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+138,Charmander Charmeleon Charizard ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Rotom V Fezandipiti ex Lumineon V Radiant Charizard,Charizard ex,Sem Rótulo Verdadeiro
+139,Archeops Lugia V Lugia VSTAR Lumineon V Minccino Cinccino Bloodmoon Ursaluna ex Wellspring Mask Ogerpon ex Iron Bundle Squawkabilly ex Fezandipiti ex Iron Hands ex Wyrdeer V Klefki,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+140,Snorlax Cornerstone Mask Ogerpon ex Rotom V Mimikyu Pidgeot V,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+141,Hoothoot Noctowl Duskull Dusknoir Terapagos ex Fan Rotom Pidgey Pidgeot ex Fezandipiti ex Bloodmoon Ursaluna ex,Terapagos ex,Sem Rótulo Verdadeiro
+142,Hoothoot Noctowl Duskull Dusknoir Terapagos ex Fan Rotom Pidgey Pidgeot ex Bloodmoon Ursaluna ex Fezandipiti ex,Terapagos ex,Terapagos ex
+142,Hoothoot Noctowl Duskull Dusknoir Terapagos ex Fan Rotom Pidgey Pidgeot ex Bloodmoon Ursaluna ex Fezandipiti ex,Terapagos ex,Terapagos ex
+143,Raging Bolt ex Teal Mask Ogerpon ex Squawkabilly ex Fezandipiti ex Radiant Greninja Sandy Shocks,Raging Bolt ex,Sem Rótulo Verdadeiro
+144,Charmander Charmeleon Charizard ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Radiant Charizard Fezandipiti ex Rotom V Lumineon V Cleffa,Pidgeot Control,Sem Rótulo Verdadeiro
+145,Dreepy Drakloak Dragapult ex Duskull Dusclops Dusknoir Rotom V Lumineon V Fezandipiti ex Radiant Alakazam Tatsugiri,Dragapult ex,Sem Rótulo Verdadeiro
+146,Ralts Ralts Kirlia Gardevoir ex Munkidori Drifloon Scream Tail Mimikyu Klefki Radiant Greninja Manaphy,Gardevoir ex,Sem Rótulo Verdadeiro
+147,Dreepy Drakloak Dragapult ex Duskull Dusclops Dusknoir Rotom V Lumineon V Fezandipiti ex Radiant Alakazam Tatsugiri,Dragapult ex,Sem Rótulo Verdadeiro
+148,Dreepy Drakloak Dragapult ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Lumineon V Rotom V Fezandipiti ex Radiant Alakazam,Dragapult ex,Sem Rótulo Verdadeiro
+149,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+149,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+149,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+149,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+150,Klawf Brute Bonnet Radiant Hisuian Sneasler Squawkabilly ex Bloodmoon Ursaluna ex Lumineon V Fezandipiti ex Iron Bundle,Klawf Unhinged Scissors,Klawf Unhinged Scissors
+150,Klawf Brute Bonnet Radiant Hisuian Sneasler Squawkabilly ex Bloodmoon Ursaluna ex Lumineon V Fezandipiti ex Iron Bundle,Klawf Unhinged Scissors,Klawf Unhinged Scissors
+151,Raging Bolt ex Teal Mask Ogerpon ex Sandy Shocks Fezandipiti ex Squawkabilly ex Radiant Greninja,Raging Bolt ex,Sem Rótulo Verdadeiro
+152,Terapagos ex Hoothoot Noctowl Duskull Dusclops Dusknoir Bouffalant Fan Rotom Pidgey Pidgeot ex Fezandipiti ex Bloodmoon Ursaluna ex,Terapagos ex,Sem Rótulo Verdadeiro
+153,Duskull Dusclops Dusknoir Origin Forme Palkia V Origin Forme Palkia VSTAR Froakie Greninja ex Radiant Greninja Mew ex Bloodmoon Ursaluna ex Fezandipiti ex Squawkabilly ex,Palkia VSTAR,Sem Rótulo Verdadeiro
+154,Hoothoot Noctowl Duskull Dusknoir Terapagos ex Fan Rotom Pidgey Pidgeot ex Bloodmoon Ursaluna ex Fezandipiti ex Manaphy,Terapagos ex,Sem Rótulo Verdadeiro
+155,Archeops Lugia V Lugia VSTAR Minccino Minccino Cinccino Lumineon V Bloodmoon Ursaluna ex Fezandipiti ex Iron Hands ex Wellspring Mask Ogerpon ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+156,Hoothoot Noctowl Duskull Dusknoir Terapagos ex Fan Rotom Pidgey Pidgeot ex Bloodmoon Ursaluna ex Fezandipiti ex,Terapagos ex,Terapagos ex
+156,Hoothoot Noctowl Duskull Dusknoir Terapagos ex Fan Rotom Pidgey Pidgeot ex Bloodmoon Ursaluna ex Fezandipiti ex,Terapagos ex,Terapagos ex
+157,Klawf Brute Bonnet Bloodmoon Ursaluna ex Lumineon V Squawkabilly ex Fezandipiti ex Radiant Hisuian Sneasler,Klawf Unhinged Scissors,Sem Rótulo Verdadeiro
+158,Hoothoot Noctowl Duskull Dusknoir Terapagos ex Fan Rotom Pidgey Pidgeot ex Bloodmoon Ursaluna ex Fezandipiti ex,Terapagos ex,Terapagos ex
+158,Hoothoot Noctowl Duskull Dusknoir Terapagos ex Fan Rotom Pidgey Pidgeot ex Bloodmoon Ursaluna ex Fezandipiti ex,Terapagos ex,Terapagos ex
+159,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+159,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+159,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+159,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+160,Snorlax Mimikyu Rotom V Cornerstone Mask Ogerpon ex Pidgeot V Chi-Yu ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+161,Charmander Charmeleon Charizard ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Rotom V Lumineon V Radiant Charizard Cleffa Fezandipiti ex,Pidgeot Control,Sem Rótulo Verdadeiro
+162,Raging Bolt ex Teal Mask Ogerpon ex Fezandipiti ex Squawkabilly ex,Raging Bolt ex,Sem Rótulo Verdadeiro
+163,Hoothoot Noctowl Duskull Dusknoir Terapagos ex Pidgey Pidgeot ex Fan Rotom Fezandipiti ex Bloodmoon Ursaluna ex,Terapagos ex,Sem Rótulo Verdadeiro
+164,Raging Bolt ex Teal Mask Ogerpon ex Sandy Shocks Radiant Greninja Fezandipiti ex Squawkabilly ex,Raging Bolt ex,Sem Rótulo Verdadeiro
+165,Duskull Dusknoir Roaring Moon ex Squawkabilly ex Darkrai V Darkrai VSTAR Roaring Moon Pecharunt ex Radiant Greninja Fezandipiti ex Lumineon V Iron Bundle,Roaring Moon ex,Sem Rótulo Verdadeiro
+166,Hoothoot Noctowl Origin Forme Palkia V Origin Forme Palkia VSTAR Fan Rotom Terapagos ex Fezandipiti ex Radiant Greninja Mew ex Lumineon V Iron Leaves ex Wellspring Mask Ogerpon ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+167,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Cleffa Squawkabilly ex Giratina VSTAR Kyurem Fezandipiti ex Hawlucha Hisuian Goodra VSTAR,Regidrago VSTAR,Sem Rótulo Verdadeiro
+168,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+168,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+168,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+168,Iron Thorns ex,Iron Thorns ex,Iron Thorns ex
+169,Mimikyu Pidgey Pidgeot ex Rotom V Bloodmoon Ursaluna ex Terapagos ex Lumineon V Luxray V Sandshrew Cornerstone Mask Ogerpon ex Wellspring Mask Ogerpon ex Genesect,Cornerstone Ogerpon ex,Pidgeot Control
+169,Mimikyu Pidgey Pidgeot ex Rotom V Bloodmoon Ursaluna ex Terapagos ex Lumineon V Luxray V Sandshrew Cornerstone Mask Ogerpon ex Wellspring Mask Ogerpon ex Genesect,Cornerstone Ogerpon ex,Pidgeot Control
+170,Dreepy Drakloak Dragapult ex Duskull Dusclops Dusknoir Rotom V Lumineon V Fezandipiti ex Radiant Alakazam Tatsugiri,Dragapult ex,Sem Rótulo Verdadeiro
+171,Archeops Lugia V Lugia VSTAR Lumineon V Minccino Cinccino Iron Hands ex Bloodmoon Ursaluna ex Wyrdeer V Raikou V Fezandipiti ex Squawkabilly ex Iron Bundle,Snorlax Stall PGO,Sem Rótulo Verdadeiro
+172,Gimmighoul Gimmighoul Gholdengo ex Origin Forme Palkia V Origin Forme Palkia VSTAR Bidoof Bibarel Radiant Greninja Fezandipiti ex,Palkia VSTAR,Sem Rótulo Verdadeiro
+173,Origin Forme Palkia V Origin Forme Palkia VSTAR Duskull Dusclops Dusknoir Froakie Greninja ex Radiant Greninja Bloodmoon Ursaluna ex Squawkabilly ex Fezandipiti ex Mew ex,Palkia VSTAR,Sem Rótulo Verdadeiro
+174,Raging Bolt ex Teal Mask Ogerpon ex Squawkabilly ex Fezandipiti ex Radiant Greninja Duskull Dusknoir Iron Bundle,Raging Bolt ex,Sem Rótulo Verdadeiro
+175,Iron Thorns ex Mimikyu Cornerstone Mask Ogerpon ex,Cornerstone Ogerpon ex,Cornerstone Ogerpon ex
+175,Iron Thorns ex Mimikyu Cornerstone Mask Ogerpon ex,Cornerstone Ogerpon ex,Cornerstone Ogerpon ex
+176,Iron Thorns ex Mimikyu Cornerstone Mask Ogerpon ex,Cornerstone Ogerpon ex,Cornerstone Ogerpon ex
+176,Iron Thorns ex Mimikyu Cornerstone Mask Ogerpon ex,Cornerstone Ogerpon ex,Cornerstone Ogerpon ex
+177,Archeops Lugia V Lugia VSTAR Minccino Cinccino Lumineon V Klefki Squawkabilly ex Iron Hands ex Bloodmoon Ursaluna ex,Arceus VSTAR,Sem Rótulo Verdadeiro
+178,Terapagos ex Hoothoot Noctowl Duskull Dusclops Dusknoir Fan Rotom Bouffalant Pidgey Pidgeot ex Bloodmoon Ursaluna ex Fezandipiti ex,Terapagos ex,Sem Rótulo Verdadeiro
+179,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Kyurem Squawkabilly ex Mew ex Fezandipiti ex Radiant Charizard Hawlucha Cleffa Giratina VSTAR,Regidrago VSTAR,Sem Rótulo Verdadeiro
+180,Raging Bolt ex Teal Mask Ogerpon ex Fezandipiti ex Slither Wing Squawkabilly ex Radiant Greninja,Raging Bolt ex,Sem Rótulo Verdadeiro
+181,Dreepy Drakloak Dragapult ex Pidgey Pidgeot ex Duskull Dusclops Dusknoir Rotom V Lumineon V Fezandipiti ex,Dragapult ex,Sem Rótulo Verdadeiro
+182,Raging Bolt ex Teal Mask Ogerpon ex Fezandipiti ex Squawkabilly ex Sandy Shocks Iron Bundle Radiant Greninja,Raging Bolt ex,Sem Rótulo Verdadeiro
+183,Shuppet Banette ex Banette Ralts Ralts Kirlia Gardevoir ex Munkidori Spiritomb Mew ex Radiant Alakazam,Gardevoir ex,Sem Rótulo Verdadeiro
+184,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Hoothoot Noctowl Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+184,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Kyurem Hoothoot Noctowl Squawkabilly ex Fezandipiti ex Mew ex Cleffa Radiant Charizard,Regidrago VSTAR,Regidrago VSTAR
+185,Ralts Kirlia Gardevoir ex Munkidori Radiant Greninja Manaphy Scream Tail Drifloon Flutter Mane Klefki,Gardevoir ex,Sem Rótulo Verdadeiro
+186,Ralts Kirlia Gardevoir ex Drifloon Scream Tail Munkidori Klefki Radiant Greninja Fezandipiti ex,Gardevoir ex,Sem Rótulo Verdadeiro
+187,Archeops Lugia V Lugia VSTAR Minccino Cinccino Lumineon V Squawkabilly ex Wyrdeer V Iron Hands ex Bloodmoon Ursaluna ex,Arceus VSTAR,Sem Rótulo Verdadeiro
+188,Roaring Moon ex Pecharunt ex Roaring Moon Squawkabilly ex Mew ex Fezandipiti ex Radiant Greninja Iron Bundle,Roaring Moon ex,Sem Rótulo Verdadeiro
+189,Archeops Lugia V Lugia VSTAR Minccino Cinccino Lumineon V Iron Bundle Squawkabilly ex Fezandipiti ex Bloodmoon Ursaluna ex Wyrdeer V Iron Hands ex,Arceus VSTAR,Sem Rótulo Verdadeiro
+190,Archeops Lugia V Lugia VSTAR Lumineon V Minccino Cinccino Iron Hands ex Bloodmoon Ursaluna ex Wyrdeer V Raikou V Fezandipiti ex Squawkabilly ex Iron Bundle,Snorlax Stall PGO,Sem Rótulo Verdadeiro
+191,Cornerstone Mask Ogerpon ex Noibat Noivern ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+192,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Hisuian Goodra VSTAR Kyurem Mew ex Fezandipiti ex Squawkabilly ex Radiant Charizard Cleffa Hawlucha Iron Bundle,Regidrago VSTAR,Sem Rótulo Verdadeiro
+193,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Hisuian Goodra VSTAR Kyurem Mew ex Fezandipiti ex Squawkabilly ex Radiant Charizard Cleffa Hawlucha,Regidrago VSTAR,Sem Rótulo Verdadeiro
+194,Duskull Dusclops Dusknoir Origin Forme Palkia V Origin Forme Palkia VSTAR Froakie Greninja ex Rotom V Radiant Greninja Squawkabilly ex Mew ex Bloodmoon Ursaluna ex Fezandipiti ex,Palkia VSTAR,Sem Rótulo Verdadeiro
+195,Snorlax Mimikyu Pidgey Pidgeot ex Luxray V Rotom V Bloodmoon Ursaluna ex Cornerstone Mask Ogerpon ex Wellspring Mask Ogerpon ex,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+196,Lugia V Lugia VSTAR Archeops Lumineon V Bloodmoon Ursaluna ex Iron Bundle Wyrdeer V Iron Hands ex Flutter Mane,Lugia Archeops,Sem Rótulo Verdadeiro
+197,Snorlax Mimikyu Rotom V Cornerstone Mask Ogerpon ex Pidgeot V Bloodmoon Ursaluna ex Sandshrew,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+198,Snorlax Cornerstone Mask Ogerpon ex Mimikyu Rotom V Pidgeot V,Cornerstone Ogerpon ex,Sem Rótulo Verdadeiro
+199,Raging Bolt ex Teal Mask Ogerpon ex Squawkabilly ex Fezandipiti ex Radiant Greninja Sandy Shocks,Raging Bolt ex,Sem Rótulo Verdadeiro
+200,Archeops Lugia V Lugia VSTAR Minccino Cinccino Lumineon V Iron Bundle Squawkabilly ex Bloodmoon Ursaluna ex Iron Hands ex Wyrdeer V Fezandipiti ex,Arceus VSTAR,Sem Rótulo Verdadeiro
+201,Regidrago V Regidrago VSTAR Teal Mask Ogerpon ex Dragapult ex Giratina VSTAR Hisuian Goodra VSTAR Kyurem Mew ex Fezandipiti ex Squawkabilly ex Radiant Charizard Cleffa Hawlucha,Regidrago VSTAR,Sem Rótulo Verdadeiro
